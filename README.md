@@ -22,4 +22,4 @@ Output: best path, length, collisions in the terminal, plus `result.png` (grid +
 ![result](result.png)
 
 ## Hand-drawn flow diagram
-![flow diagram](flow_diagram.jpg)
+![flow diagram](flow_diagram.jpeg)
