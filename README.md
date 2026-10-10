@@ -1,6 +1,6 @@
 # Swarm-Based Path Planning with PSO
 
-- **Name:** YOUR NAME HERE
+- **Name:** DAIM TAIMOOR CHOHAN
 - **Roll number:** 061
 - **Seed used:** `61` (`SEED = 61` in `pso_path.py`)
 
