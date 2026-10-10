@@ -19,7 +19,7 @@ NUM_WAYPOINTS = 8      # points between start and goal
 NUM_PARTICLES = 80
 ITERATIONS = 500
 W, C1, C2 = 0.7, 1.5, 1.5   # inertia, cognitive, social
-PENALTY = 30           # cost added for each blocked sample point
+PENALTY = 40           # cost added for each blocked sample point
 STEP = 0.25            # sampling distance along a segment for collision check
 # ------------------------------------------
 
